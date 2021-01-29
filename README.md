@@ -12,3 +12,5 @@ https://DrewMax.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Drew Maxwell
+
+### ©️2019 Run Buddy, Inc 
