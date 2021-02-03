@@ -197,6 +197,8 @@ button {
     max-width: 100%;
 }
 
+/* trainers style start */
+
 .trainers {
     width: 100%;
     margin: 0 auto;
@@ -236,6 +238,20 @@ button {
 .trainer-bio p {
     font-size: 17px;
 }
+
+/* service grid style start */
+
+.service-grid-container {
+    display: grid;
+}
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
 /* reach out style start */
 .contact {
     background: #024e76;
